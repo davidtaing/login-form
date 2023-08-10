@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "prettier": "prettier . --write",
     "test": "vitest"
   },
   "dependencies": {
@@ -28,8 +29,11 @@
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",
     "@vitejs/plugin-react": "^4.0.4",
+    "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-testing-library": "^5.11.1",
     "jsdom": "^22.1.0",
+    "prettier": "^3.0.1",
+    "prettier-plugin-tailwindcss": "^0.4.1",
     "vitest": "^0.34.1"
   }
 }
