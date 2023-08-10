@@ -3,5 +3,5 @@ build
 coverage
 
 .gitignore
-pnpm-lock.ymal
+pnpm-lock.yaml
 package.json

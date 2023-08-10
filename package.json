@@ -31,6 +31,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-testing-library": "^5.11.1",
     "jsdom": "^22.1.0",
+    "prettier": "^3.0.1",
+    "prettier-plugin-tailwindcss": "^0.4.1",
     "vitest": "^0.34.1"
   }
 }
